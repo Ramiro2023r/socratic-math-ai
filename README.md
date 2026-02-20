@@ -171,6 +171,8 @@ javascript
 modelName: "gemini-flatest"     // Más rápido
 modelName: "gemma-3-12b-it"    // Más capacidades
 ```
+proner tu api aqui
+<img width="648" height="168" alt="image" src="https://github.com/user-attachments/assets/d32b7888-1b87-4ae3-a82c-d711ac541d1e" />
 
 ## 🤝 Contribuciones
 
