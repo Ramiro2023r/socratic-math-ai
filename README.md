@@ -2,6 +2,8 @@
 Este proyecto es una plataforma de tutoría inteligente con IA para aprender matemáticas.
 
  🧠 Tutor Inteligente - Entrenador Ramiro
+ <img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/bb2fb562-48e0-43f5-9c82-0de2e6353481" />
+
 
 Una plataforma de tutoría inteligente con inteligencia artificial para aprender matemáticas. El tutor simula ser "Entrenador Ramiro", un entrenador de élite de la Universidad Nacional de Ingeniería (UNI) que guía a los estudiantes mediante metodología socrática.
 
